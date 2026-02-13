@@ -1,4 +1,4 @@
-package SortingAlgos;
+package sortingAlgos;
 
 public class SelectionSortRecursive {
     public static void main(String[] args) {
