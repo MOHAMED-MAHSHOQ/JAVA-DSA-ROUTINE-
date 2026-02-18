@@ -1,4 +1,4 @@
-package arrayProblemsEasy;
+package arrayProblems.Easy;
 
 public class Consecutive1s {
     public static void main(String[] args) {

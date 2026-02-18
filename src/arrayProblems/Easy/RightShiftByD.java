@@ -1,5 +1,5 @@
-package arrayProblemsEasy;
-import  static arrayProblemsEasy.LeftRotateByD.reverse;
+package arrayProblems.Easy;
+import  static arrayProblems.Easy.LeftRotateByD.reverse;
 public class RightShiftByD {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};

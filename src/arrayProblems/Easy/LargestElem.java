@@ -1,4 +1,4 @@
-package arrayProblemsEasy;
+package arrayProblems.Easy;
 
 //brute   TC -->O(nlogn)
 //optimal TC -->O(n)✅
